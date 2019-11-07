@@ -1,11 +1,11 @@
-module.exports
+module.exports =
 {
   "development": {
     "username": "lwbstllm",
     "password": "r_o4D4lKBXaEZJBRR9ypxDjD-tgc3-1z",
     "database": "lwbstllm",
     "host": "salt.db.elephantsql.com",
-    "dialect": "postgress",
+    "dialect": "postgres",
     "port": 5432,
     "operatorsAliases": false
   },
